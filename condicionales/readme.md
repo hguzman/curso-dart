@@ -1,9 +1,3 @@
-# condicional si y sino
-
-## Diagrama de flujo 
-
-## Ejemplo 
-
 # condicional Dependiendo D
 
 ## Diagrama de flujo
