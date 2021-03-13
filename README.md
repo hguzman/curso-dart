@@ -9,7 +9,7 @@
 3. Variable 
 4. Constante 
 5. Contadores 
-6. Acomuladores 
+6. Acumuladores 
 7. Ciclos 
    
    7.1 ciclos para 
