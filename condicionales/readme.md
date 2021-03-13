@@ -1,16 +1,16 @@
-#condicional **si y sino** 
+# condicional si y sino
 
-##Diagrama de flujo 
+## Diagrama de flujo 
 
-##Ejjemplo 
+## Ejjemplo 
 
-#condicional **Dependiendo D**
+# condicional Dependiendo D
 
 ## Diagrama de flujo
 
 ## Ejemplo
 
-````
+```
 void main(){
     switch (r) {
       case 0:
