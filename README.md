@@ -9,7 +9,10 @@
 5. Contadores 
 6. Acomuladores 
 7. Ciclos 
+   
    7.1 ciclos para 
+  
    7.2 ciclos mientras que 
+ 
    7.3 ciclos haga hasta 
    
