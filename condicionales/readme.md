@@ -2,7 +2,7 @@
 
 ## Diagrama de flujo 
 
-## Ejjemplo 
+## Ejemplo 
 
 # condicional Dependiendo D
 
