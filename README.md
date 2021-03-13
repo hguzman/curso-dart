@@ -2,7 +2,9 @@
 ##Que es Dart? 
 
 2. [Condicionales](condicionales/readme.md)
+    
     2.1 Dependiendo de (Swich)
+    
     2.2 si 
 3. Variable 
 4. Constante 
