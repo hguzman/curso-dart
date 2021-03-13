@@ -1,4 +1,10 @@
-# Generalidaes de un dependiendo d
+#condicional **si y sino** 
+
+##Diagrama de flujo 
+
+##Ejjemplo 
+
+#condicional **Dependiendo D**
 
 ## Diagrama de flujo
 
