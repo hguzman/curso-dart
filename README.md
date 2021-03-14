@@ -6,11 +6,11 @@
    
     1.2  si y sino (**If and Else**)
     
-2. ## Variables 
-3. ## Constantes 
-4. ## Contadores 
-5. ## Acumuladores 
-6. ## Ciclos 
+2. ## [Variables](Variables/readme.md)
+3. ## [Constantes](Constante/readme.md)
+5. ## [Contadores ](Contadores/readme.md)
+6. ## [Acumuladores](acumuladores/readme.md) 
+7. ## [Ciclos ](Ciclos/radme.md)
     
     6.1  ciclo para (**for**) 
    
