@@ -11,12 +11,12 @@ Dart cuenta con las siguientes herramientas:
 Dart se puede usar tanto en aplicaciónes web, en aplicaciones de consola, en servidores y en aplicaciones móviles.
 
 ### un ejemplo de dart
-```[Void main{
+```[ Void main{
       var mySize = 174;
       print(mySize);
       int yourSize = 174;
       print(yourSize);
-}]
+} ]
 ```
 * En este ejemplo se puede apreciar que se usa **var** para definir la variable que lleva por nombre **mySize**.
 * la función **print** se utiliza para mostrar el resultado al usuario.
