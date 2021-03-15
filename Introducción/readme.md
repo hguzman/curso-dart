@@ -21,4 +21,4 @@ Void main(){
 ```
 * En este ejemplo se puede apreciar que se usa **var** para definir la variable que lleva por nombre **mySize**.
 * la función **print** se utiliza para mostrar el resultado al usuario.
-* Se usa la función **int** para identificar la variable **yourSize** como decimal.
+* Se usa la función **int** para definir la variable **yourSize** como decimal.
