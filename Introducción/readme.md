@@ -12,7 +12,7 @@ Dart se puede usar tanto en aplicaciónes web, en aplicaciones de consola, en se
 
 ### un ejemplo de dart
 ```[dart]
-Void main{
+Void main(){
       var mySize = 174;
       print(mySize);
       int yourSize = 174;
