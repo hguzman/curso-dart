@@ -1,4 +1,4 @@
-#¿Qué es dart?
+#¿Qué es dart?#
 Dart es un lenguaje de programación que empezó sus trotes en el 2011 con el objetivo de ser un lenguaje **open source** que permitiera a los desarolladores usar lenguaje orientado a objetos de una manera más comoda y eficiente, además ya que sus sintaxis son parecidas a las de java, c++ y javaScript es más sencillo de aprender para aquellos que dominan dichos lenguajes.
 Dart cuenta con las siguientes herramientas:
 1. un gestor de paquetes propio.
@@ -6,10 +6,10 @@ Dart cuenta con las siguientes herramientas:
 3. un analizador y formeatador.
 4. su propia maquina virtual y la compilación Just-in-Time que permite la ejecución más rapida de los cambios en el codigo.
 
-##¿dónde lo puedo usar?
+##¿dónde lo puedo usar?##
 Dart se puede usar tanto en aplicaciónes web, en aplicaciones de consola, en servidores y en aplicaciones móviles.
 
-###un ejemplo de dart
+###un ejemplo de dart##3
 ```[Void main{
       var mySize = 174;
       print(mySize);
