@@ -6,4 +6,6 @@
     1. Dependiendo de (Swich)
 3. Ciclos
     1. [Para (for)](ciclos/for/readme.md)
+    2. Hasta que (While)
+    3. Mientras que (Do While)
 4. [Clase](clases/readme.md)
