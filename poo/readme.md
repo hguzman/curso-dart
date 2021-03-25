@@ -5,7 +5,7 @@ Los métodos que permiten acceder al valor de un atributo se denominan "getters"
 
 Ejemplo:
 
-```
+```dart
 class Cuadrado{
   
   double _lado;
