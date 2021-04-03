@@ -42,6 +42,8 @@ if (a < 0) {
 ````
 ### condicional multiple 
 
+## estructura switch-case-default.
+
 ````
 int dia;
 
