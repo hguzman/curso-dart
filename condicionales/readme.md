@@ -84,5 +84,5 @@ void main(){
 ````
   
   # Generalidaes de un dependiendo d
-
+ 
 ## Diagrama de flujo
