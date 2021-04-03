@@ -17,21 +17,6 @@ Mientras que en las estructuras if y if-else la expresión booleana condicional 
 
 Cualquiera de estas estructuras pueden estar anidadas en cualquier bloque del programa, donde se incluyen los bloques de las estructuras anidadas.
 
-## Ejemplo
-
-````
-void main(){
-    switch (r) {
-      case 0:
-        // do something
-        break;
-      case myPI: 
-        // do something else
-        break;
-    }
-}
-
-````
 ## ejemplo de condicional si (if)
 
 ### condicional simple.
@@ -81,6 +66,20 @@ switch (dia)
   }
   
   ````
+  
+  ````
+void main(){
+    switch (r) {
+      case 0:
+        // do something
+        break;
+      case myPI: 
+        // do something else
+        break;
+    }
+}
+
+````
   
   # Generalidaes de un dependiendo d
 
