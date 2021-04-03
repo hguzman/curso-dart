@@ -21,3 +21,16 @@ void main(){
         break;
     }
 }
+
+## ejemplo de condicional si (if)
+
+el siguiente codigo muestra un mensaje cuando un numero es negativo y cuando no lo es.
+
+´´´´
+if (a < 0) {
+    println("El número es negativo");
+} else {
+    println("El número es nulo o positivo");
+}
+
+´´´´
