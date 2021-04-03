@@ -31,32 +31,33 @@ void main(){
     }
 }
 
-´´´´
+````
 ## ejemplo de condicional si (if)
 
-###condicional simple.
+### condicional simple.
 
+````
 if (a != 0) {
     print("El cociente es: ");
     println(b/a);
 }
 
-´´´´
+````
 ### bicondicional
 
 el siguiente codigo muestra un mensaje cuando un numero es negativo y cuando no lo es.
 
-´´´´
+````
 if (a < 0) {
     println("El número es negativo");
 } else {
     println("El número es nulo o positivo");
 }
 
-´´´´
+````
 ### condicional multiple 
 
-´´´´
+````
 int dia;
 
 switch (dia)
@@ -79,7 +80,7 @@ switch (dia)
             break;
   }
   
-  ´´´´
+  ````
   
   # Generalidaes de un dependiendo d
 
