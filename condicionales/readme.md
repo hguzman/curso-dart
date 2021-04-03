@@ -31,11 +31,11 @@ void main(){
     }
 }
 
+´´´´
 ## ejemplo de condicional si (if)
 
 ###condicional simple.
 
-´´´´
 if (a != 0) {
     print("El cociente es: ");
     println(b/a);
