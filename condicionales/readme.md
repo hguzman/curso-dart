@@ -1,3 +1,5 @@
+# que es un condicional ?
+
 # Generalidaes de un dependiendo d
 
 ## Diagrama de flujo
