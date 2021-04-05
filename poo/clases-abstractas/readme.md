@@ -1,5 +1,5 @@
 
-## Clases abstractas
+# Clases abstractas
 
 Las clases abstractas son aquellas que por sí mismas no se pueden identificar con algo 'concreto' (no existen como tal en el mundo real), pero sí poseen determinadas características que son comunes en otras clases que pueden ser creadas a partir de ellas.
 
@@ -44,4 +44,4 @@ class Gato implements Animal {
 
 ### Diagrama de clases
 
-![uml](img/interface.png)
+![uml](../img/interface.png)
