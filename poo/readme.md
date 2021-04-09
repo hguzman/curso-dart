@@ -3,6 +3,9 @@
 [Constructores](constructores/readme.md)
 [Clases abstractas](clases-abstractas/readme.md)
 
+## Herencia
+
+
 ## Atributos
 - **-privados:** Son atributos que solo pueden ser accedidos dentro de la clase
 - **+publicos:** Atributos que pueden ser accedidos desde fuera de la clase
