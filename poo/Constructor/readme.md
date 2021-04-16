@@ -1,5 +1,5 @@
 #  constructores
-##¿Que es un constructor?
+## ¿Que es un constructor?
 Un constructor en programación orientada a objetos es un conjunto de instrucciones cuya misión es inicializar un objeto de una clase. Sintaxis:
 
 ```
@@ -39,7 +39,7 @@ class Point {
 
 ```
 
-###constructor por defecto
+### constructor por defecto
 Cada clase tiene como mínimo un constructor. Si no escribimos un constructor en nuestro código fuente, el lenguaje de programación ofrece uno. Este constructor no tiene parámetros y tiene un cuerpo vacío, es decir, no tiene instrucciones.
 El contructor por defecto se habilita cuando creamos instancias de los objetos.
 Pero si a una clase le añadimos la declaración de un constructor, es decir, lo escribimos nosotros, el constructor por defecto se pierde.
@@ -47,7 +47,7 @@ Pero si a una clase le añadimos la declaración de un constructor, es decir, lo
 
 
 
-###Constructores con nombre##
+### Constructores con nombre##
 Los constructores con nombre se emplean para implementar múltiples constructores para una clase o para proporcionar mayor claridad. ejemplo:
 
       ```
