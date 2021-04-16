@@ -59,7 +59,7 @@ Aunque así de pronto esto pueda parecer complejo lo mejor, para entenderlo, es 
 * Se puede acceder a los atributos o métodos protegidos (protected) dentro de la misma clase, por todas las clases dentro del  mismo paquete y por todas las subclases.
 * Todas las clases pueden acceder a los atributos y métodos públicos.
 
-![](https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=665:public-private-y-protected-javatipos-de-modificadores-de-acceso-visibilidad-en-clases-subclases-cu00693b&catid=68&Itemid=188)
+![](https://drive.google.com/file/d/12jeKfHfdqBXK2LvT4H7pCPyuOVz9P7Ib/view?usp=sharing)
 
 ## Constructores y herencia
 A diferencia de lo que ocurre con los métodos y atributos no privados, los constructores no se heredan. Además de esta característica, deben tenerse en cuenta algunos aspectos sobre el comportamiento de los constructores dentro del contexto de la herencia, ya que dicho comportamiento es sensiblemente distinto al del resto de métodos.
