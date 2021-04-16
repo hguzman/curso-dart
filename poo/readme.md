@@ -1,10 +1,24 @@
 # Programación Orientada a objetos
 
-[Constructores](constructores/readme.md)
-[Clases abstractas](clases-abstractas/readme.md)
+## que es la programacion orientada a objetos o (poo) ?
+La Programación Orientada a Objetos (POO) es un paradigma de programación, es decir, un modelo o un estilo de programación que nos da unas guías sobre cómo trabajar con él. Se basa en el concepto de clases y objetos. Este tipo de programación se utiliza para estructurar un programa de software en piezas simples y reutilizables de planos de código (clases) para crear instancias individuales de objetos. 
+
+### clases.
+Una clase es una plantilla. Define de manera genérica cómo van a ser los objetos de un determinado tipo. Por ejemplo, una clase para representar a animales puede llamarse ‘animal’ y tener una serie de atributos, como ‘nombre’ o ‘edad’ (que normalmente son propiedades), y una serie con los comportamientos que estos pueden tener, como caminar o comer, y que a su vez se implementan como métodos de la clase (funciones).
+
+### atributos.
+cada objeto dispone de una serie de atributos que definen sus características individuales y le permiten diferenciarse de otros (apariencia, estado, etc).
+
+### metodos.
+Los métodos son los comportamientos o conductas de un objeto y permite identificar la forma en que actúa respecto a su entorno o respecto a otros objetos. Además, representa una operación o función que un objeto realiza. El conjunto de los métodos de un objeto determinan el comportamiento general del objetos.
+
+## porque se utiliza la (poo) ?
+La Programación Orientada a objetos permite que el código sea reutilizable, organizado y fácil de mantener. Sigue el principio de desarrollo de software utilizado por muchos programadores DRY (Don’t Repeat Yourself), para evitar duplicar el código y crear de esta manera programas eficientes. Además, evita el acceso no deseado a los datos o la exposición de código propietario mediante la encapsulación y la abstracción.
 
 ## Herencia
 
+[Constructores](constructores/readme.md)
+[Clases abstractas](clases-abstractas/readme.md)
 
 ## Atributos
 - **-privados:** Son atributos que solo pueden ser accedidos dentro de la clase
