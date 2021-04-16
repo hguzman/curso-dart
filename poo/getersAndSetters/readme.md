@@ -19,7 +19,7 @@ Ejemplo:
 
 ```dart
 class Cuadrado{
-  
+
   double _lado;
 
   set lado(double valor){
@@ -34,4 +34,3 @@ class Cuadrado{
   }
 }
 ```
-
