@@ -4,8 +4,7 @@ La herencia es una de las premisas y técnicas de la POO la cual permite a los p
 ## jerarquía de herencia
 La relación padre-hijo entre clases puede representarse desde un punto de vista jerárquico, denominado vista de clases en árbol. La vista en árbol comienza con una clase general llamada superclase (a la que algunas veces se hace referencia como clase primaria, clase padre, clase principal, o clase madre; existen muchas metáforas genealógicas). Las clases derivadas (clase secundaria o subclase) se vuelven cada vez más especializadas a medida que van descendiendo en el árbol. Por lo tanto, se suele hacer referencia a la relación que vincula una clase secundaria con una clase primaria mediante la frase es una x o y.
 
-![](C:\Users\Admin\Pictures\poo-images-animaux.gif){width='313px'  height='150px'}
-
+![](https://ik.imagekit.io/smdxc0e2g3/userscontent2-endpoint/images/3c8f8432-1f9a-41c3-a2e8-74c8c8ee7e5f/8a2af1945e76f1239c606405f0881647.gif?tr=w-400,rt-0)
 
 La herencia es siempre transitiva: una clase puede heredar características
 de superclases que se encuentran muchos niveles más arriba en la jerarquía
@@ -60,7 +59,7 @@ Aunque así de pronto esto pueda parecer complejo lo mejor, para entenderlo, es 
 * Se puede acceder a los atributos o métodos protegidos (protected) dentro de la misma clase, por todas las clases dentro del  mismo paquete y por todas las subclases.
 * Todas las clases pueden acceder a los atributos y métodos públicos.
 
-![](C:\Users\Admin\Pictures\tabla-herencia-programacion.png){width='597px'  height='130px'}
+![Tabla de Herencia](https://lh3.googleusercontent.com/z8eQEG_suNeizjsTikHvzdOT1PKTBDw4EUQrdbldbCtNVyVJ1JgXk-aF2yBpDwZXhz41Xg=s170)
 
 ## Constructores y herencia
 A diferencia de lo que ocurre con los métodos y atributos no privados, los constructores no se heredan. Además de esta característica, deben tenerse en cuenta algunos aspectos sobre el comportamiento de los constructores dentro del contexto de la herencia, ya que dicho comportamiento es sensiblemente distinto al del resto de métodos.
