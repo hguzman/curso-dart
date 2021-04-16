@@ -15,6 +15,11 @@ Los métodos son los comportamientos o conductas de un objeto y permite identifi
 ## porque se utiliza la (poo) ?
 La Programación Orientada a objetos permite que el código sea reutilizable, organizado y fácil de mantener. Sigue el principio de desarrollo de software utilizado por muchos programadores DRY (Don’t Repeat Yourself), para evitar duplicar el código y crear de esta manera programas eficientes. Además, evita el acceso no deseado a los datos o la exposición de código propietario mediante la encapsulación y la abstracción.
 
+## Herencia
+
+[Constructores](constructores/readme.md)
+[Clases abstractas](clases-abstractas/readme.md)
+
 ## Atributos
 - **-privados:** Son atributos que solo pueden ser accedidos dentro de la clase
 - **+publicos:** Atributos que pueden ser accedidos desde fuera de la clase
@@ -42,3 +47,4 @@ class Cuadrado{
   }
 }
 ```
+
