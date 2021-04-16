@@ -4,6 +4,7 @@
 [Clases abstractas](clases-abstractas/readme.md)
 
 ## Herencia
+Es la base de la reutilización del código, mediante la herencia se pueden crear relaciones entre objetos que extienden a objetos padres, heredando su comportamiento y estructura interna.
 
 
 ## Atributos
