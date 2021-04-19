@@ -3,6 +3,8 @@
 Future es una de las APIs más básicas que Dart tiene para el manejo de async (asíncrono).
 La mayoría de los lenguajes modernos tienen algún tipo de soporte para la programación asíncrona. Muchos ofrecen una API de futuros, y algunos los llaman Promesas. Y en su mayor parte, los Futuros de Dart son muy similares a las que se encuentran en otros lenguajes.
 
+[Futuros de Dart — Flutter en el Foco](https://medium.com/comunidad-flutter/futuros-de-dart-flutter-en-el-foco-24c3f8399e35)
+
 ## Ejemplo then
 
 ```dart
