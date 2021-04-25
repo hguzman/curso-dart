@@ -2,6 +2,8 @@
 
 Para instalar flutter, se debe seguir las instrucciones incluidas en la [pagina oficial](https://flutter.dev/docs/get-started/install/windows)
 
+[Video de instalación (Wilman Orellano)](https://www.youtube.com/watch?v=995LH94siTI)
+
 > Flutter incluye el SDK de dart
 
 ## Programas utilizados en el curso
