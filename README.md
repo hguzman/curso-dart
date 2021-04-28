@@ -1,4 +1,4 @@
-# curso-dart
+# curso-flutter
 ## Contenido
 
 1. [introduccion](introduccion/readme.md)
@@ -11,4 +11,28 @@
     3. Mientras que (Do While)
 5. [Poo (Programacion orientada a objetos)](poo/readme.md)
 6. [Futuros](futuros/readme.md)
+7. [Hola mundo]
+
+```dart
+import 'package:flutter/material.dart';
+
+void main() {
+  runApp(MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  // This widget is the root of your application.
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'Flutter Demo',
+      theme: ThemeData(
+        primarySwatch: Colors.blue,
+      ),
+      home: MyHomePage(title: 'Flutter Demo Home Page'),
+    );
+  }
+}
+
+```
 
