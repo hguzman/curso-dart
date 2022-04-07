@@ -45,3 +45,40 @@ class Gato implements Animal {
 ### Diagrama de clases
 
 ![uml](../img/interface.png)
+
+### Ejemplo
+
+This is a class or an interface depending on the situation.
+
+````
+abstract class A {
+    void sayHello() {
+       print("Hello");
+    }
+    void sayBye();
+}
+````
+
+B class implements A interface, so it has to implements all methods of A.
+
+````
+class B implements A {
+    void sayHello() {
+       print("B say Hello");
+    }
+    void sayBye() {
+       print("B say Bye");
+    }
+}
+````
+
+C class extends A class, so it has to implement all abstract methods of A. (Not all). C is inherited the sayHello() methods from A class.
+
+
+````
+class C extends A {
+   void sayBye() {
+       print("C say Bye");
+   }
+}
+````
