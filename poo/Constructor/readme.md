@@ -50,7 +50,7 @@ Pero si a una clase le añadimos la declaración de un constructor, es decir, lo
 ### Constructores con nombre
 Los constructores con nombre se emplean para implementar múltiples constructores para una clase o para proporcionar mayor claridad. ejemplo:
 
-      ```
+```
 void main() {
 
 Animal dog = new Animal.dog();
@@ -64,7 +64,7 @@ class Animal {
 
   Animal.cat();
       }
-      ```
+```
 
 Para crear un bojeto en Dart no es necesario usar la palabra clave new. Esta palabra es opcional. Asi que podemos crear objetos a partir de clases de la siguiente manera.
 
