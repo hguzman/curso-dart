@@ -37,6 +37,14 @@ class Point {
   Point(this.x, this.y); // los argumentos 'x' e 'y' se asignan a las variables de instancia con el mismo nombre
 }
 
+class Point {
+  num x, y;
+
+  // Parametros nombrados 
+  Point({this.x, this.y}); 
+}
+
+
 ```
 
 ### constructor por defecto
