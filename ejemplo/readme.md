@@ -161,6 +161,33 @@ class DatosPage extends StatelessWidget {
   }
 }
 ```
+### datos List
+
+```dart
+class DatoPage extends StatelessWidget {
+  final List<User> users;
+  const DatoPage({
+    Key? key,required this.users,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return ListView.builder(
+      itemCount: users.length,
+      itemBuilder: (context, index){
+        final user = users[index];
+        return ListTile(
+          leading: Image.network(user.avatar),
+          trailing: const Icon(Icons.arrow_forward_ios),
+          title: Text('${user.firstName} ${user.lastName}'),
+          subtitle: Text(user.email),
+        );
+      }
+    );
+  }
+
+}
+```
 
 ### Error
 
