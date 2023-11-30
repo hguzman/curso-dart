@@ -73,6 +73,49 @@ class HomePage extends StatelessWidget {
 }
 
 ```
+### Home LISTA
+
+```dart
+class HomePage extends StatelessWidget {
+  const HomePage({
+    Key? key,
+  }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: Text('titulo'),),
+      body: FutureBuilder(
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.done) {
+            if (snapshot.hasError) {
+              return ErrorPage();
+            }else if (snapshot.hasData) {
+              return DatoPage(users: snapshot.data as List<User>,);
+            }
+          }
+          return LoadingPage();
+        },
+        future: getList(),
+      )
+,
+    );
+  }
+
+  Future<List<User>> getList() async {
+    final url = Uri.https('reqres.in','/api/users');
+    final response = await http.get(url);
+    if (response.statusCode == 200){
+      final info = jsonDecode(response.body);
+      final data = info["data"];
+      return userFromJson(jsonEncode(data));
+    }else{
+      throw 'Error';
+    }
+  }
+
+}
+```
 
 
 ### carga
