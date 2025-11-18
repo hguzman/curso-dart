@@ -95,3 +95,5 @@ void main() {
   Estudiante estu = new Estudiante(21);
 }
 ```
+
+### Otro ejemplo de herencia
